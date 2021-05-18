@@ -1,0 +1,25 @@
+body
+{
+color: blue;
+background: aqua;
+}
+.heading
+{
+width: 80%;
+font-size: 22px;
+}
+#camera
+{
+border: 5px solid black;
+width: 350px;
+height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+color: red;
+}
+#btn
+{
+color: black;
+background: rgb(0, 255, 0);
+}
